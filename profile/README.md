@@ -10,4 +10,3 @@ Free and open-source projects.
 | [debium](https://github.com/fossauce/debium) | Installs software Debian does not ship, as packages built locally |
 | [debium-pkg](https://github.com/fossauce/debium-pkg) | Package definitions for debium |
 | [debium-kernel](https://github.com/fossauce/debium-kernel) | Debian's backports kernel, rebuilt with a few changes |
-| [debium-design](https://github.com/fossauce/debium-design) | Decisions, plans and logos |
