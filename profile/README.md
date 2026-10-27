@@ -8,5 +8,5 @@ Free and open-source projects.
 | Project | |
 |---|---|
 | [debium](https://github.com/fossauce/debium) | Installs software Debian does not ship, as packages built locally |
-| [debium-pkg](https://github.com/fossauce/debium-pkg) | Package definitions for debium |
+| [debium-catalog](https://github.com/fossauce/debium-catalog) | Package definitions for debium |
 | [debium-kernel](https://github.com/fossauce/debium-kernel) | Debian's backports kernel, rebuilt with a few changes |
