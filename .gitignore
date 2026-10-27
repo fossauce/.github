@@ -1,0 +1,7 @@
+# Ignore everything; allow only the files listed.
+*
+!*/
+
+!.gitignore
+!profile/README.md
+!profile/*.svg
